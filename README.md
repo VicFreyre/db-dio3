@@ -17,4 +17,4 @@ Este projeto representa a modelagem lógica e a implementação de um banco de d
 - Ordenações por valor gasto
 
 ## 🛠️ Tecnologias
-- SQL (MySQL ou compatível)
+- SQL
